@@ -10,6 +10,9 @@ package cert.lambda.effectivefinal;
  * A partir de java 8, ya no es necesario dicha declaración,
  * bastará que no se modifique la variable para que
  * se considere "Efectivamente Final".
+ * 
+ * Lambdas utilizan las mismas reglas de acceso que
+ * los Local Inner Class.
  * @author rmunozdev
  *
  */
